@@ -15,4 +15,4 @@ This space is an archive of some of the *Stata* and *R* projects I've worked on 
 
 - quantifying the uptake of DTG-based ART in Southern Africa. Calculated cummulative incidence taking into account competing risk events in R. [here](https://github.com/bethrahn128/DTG-uptake)
 
-- investigating the transition to DTG-based ART at HIV treatment and care clinics in IeDEA globally using generalized estimating equations (GEE) in Stata and R. [here](https://github.com/bethrahn128/DTG-site-transition)
+- investigating the transition to DTG-based ART at HIV treatment and care clinics in IeDEA globally using generalized estimating equations (GEE) in R. [here](https://github.com/bethrahn128/DTG-site-transition)
