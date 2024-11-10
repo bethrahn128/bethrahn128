@@ -16,3 +16,8 @@ This space is an archive of some of the *Stata* and *R* projects I've worked on 
 - quantifying the uptake of DTG-based ART in Southern Africa. Calculated cummulative incidence taking into account competing risk events in R. [here](https://github.com/bethrahn128/DTG-uptake)
 
 - investigating the transition to DTG-based ART at HIV treatment and care clinics in IeDEA globally using generalized estimating equations (GEE) in R. [here](https://github.com/bethrahn128/DTG-site-transition)
+
+
+### Some other projects I have worked on:
+
+- in an effort to promote Open Science and reproducibility of results within our IeDEA Southern Africa team [IeDEA-SA](https://github.com/IeDEA-SA/WG-open-science), I helped define and draft the [Standard Operating Procedures for version control using Git & GitHub](https://github.com/IeDEA-SA/WG-open-science/blob/main/git-github/SOP.md), a document which provides general resources on version control using Git and GitHub and briefly describes when and how to implement version control for IeDEA-SA projects.
